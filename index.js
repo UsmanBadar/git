@@ -17,7 +17,7 @@ let numberFunction = ()=> {
 };
 
 const tuple = ()=> {
-    number * number;
+    number + number;
 };
 
 array.map((array)=> {
