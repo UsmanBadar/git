@@ -8,7 +8,7 @@ const chesse = ()=> {
 let mn = 6;
 let array = [3, 5, 6];
 
-array.push(8);
+array.push(2);
 console.log(array);
 
 let numberFunction = ()=> {
