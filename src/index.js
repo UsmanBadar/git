@@ -4,12 +4,14 @@ import './index.css';
 //import Title from './component/countries';
 import reportWebVitals from './reportWebVitals';
 //import App from './App';
-import List from './List'
+import List from './List';
+import Name from './List';
 
 ReactDOM.render(
   <React.StrictMode>
-    <div></div>
+    <div>
     <List/>
+    </div>
   </React.StrictMode>,
   document.getElementById('root')
 );
