@@ -8,6 +8,7 @@ import List from './List'
 
 ReactDOM.render(
   <React.StrictMode>
+    <div></div>
     <List/>
   </React.StrictMode>,
   document.getElementById('root')
